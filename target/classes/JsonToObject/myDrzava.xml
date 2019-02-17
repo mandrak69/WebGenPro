@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<root>
+    <Drzava id="1">
+        <name>Srbija</name>
+        <webname>Srbija</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="2">
+        <name>Italija</name>
+        <webname>Italija</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="3">
+        <name>Nemacka</name>
+        <webname>Nemacka</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="4">
+        <name>Poljska</name>
+        <webname>POLSKA</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="5">
+        <name>Grcka</name>
+        <webname>Grcka</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="6">
+        <name>Turska</name>
+        <webname>Turska</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="7">
+        <name>Engleska</name>
+        <webname>Engleska</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+    <Drzava id="8">
+        <name>Zambija</name>
+        <webname>Zambija</webname>
+        <slika>1</slika>
+        <webopis>1</webopis>
+        <webslika>1</webslika>
+        <webindeks>1</webindeks>
+        <webslika>1</webslika>
+        <ind>1</ind>
+        <webind>1</webind>
+    </Drzava>
+</root>
